@@ -18,4 +18,4 @@
 ---
 [![Necmettin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NecmettinKizildag)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://camo.githubusercontent.com/49470ba684d2d7564d018672edc1e91c5343b82c6fab9e145e55d38cb14dd8a0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d72616d617a616e6b61636d617a2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="NecmettinKizildag" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=NecmettinKizildag&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NecmettinKizildag&layout=compact)
