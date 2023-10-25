@@ -15,7 +15,9 @@
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-
+<img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="70px" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" />
+<img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="40px" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
+<img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <br/>
 
 ---
