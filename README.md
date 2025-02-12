@@ -10,7 +10,7 @@
 
 ### 🧰 Languages and Tools
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png">
-<img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="html" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
+<img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="html" width="40px" src="https://icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="html" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
