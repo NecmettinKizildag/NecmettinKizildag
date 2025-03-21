@@ -7,6 +7,8 @@
 
 ### 🧰 Languages and Tools
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Flutter" width="40px" src="https://images.icon-icons.com/2107/PNG/512/file_type_flutter_icon_130599.png" />
+<img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Dart" width="40px" src="https://images.icon-icons.com/2530/PNG/512/dart_colour_button_icon_151934.png" />
+<img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Kotlin" width="40px" src="https://images.icon-icons.com/2107/PNG/512/file_type_kotlin_icon_130487.png" />
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png">
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="html" width="40px" src="https://icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
 <img target="_blank" rel="noopener noreferrer nofollow" align="left" alt="html" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
