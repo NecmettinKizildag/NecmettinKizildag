@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📱 I’m currently a mobile app developer using Flutter and Kotlin Multiplatform
+- 📱 I’m a Computer Engineering Student
 - 📫 How to reach me: necmettin_kzldg@hotmail.com
 
 ---
